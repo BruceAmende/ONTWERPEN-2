@@ -30,4 +30,10 @@ Ze hebben allebei een aantal eigenschappen maar heeft ook de hierboven beschreve
 2. Neem de Class Bezoeker (van een bioscoop). Bedenk 3 properties en 2 methodes
 3. Neem de Class Film. Bedenk 3 properties en 2 methodes
 
+Class(BioscoopkaartjeUnlimited)
+- prijs
+- waarde
+
+
+
 ### Bronnen
