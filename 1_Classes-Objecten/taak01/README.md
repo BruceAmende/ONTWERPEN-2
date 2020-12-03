@@ -52,6 +52,9 @@ Om het in termen van Software Ontwikkeling te zeggen:
 
 1. Bekijk daarna het filmpje: [Video](https://www.youtube.com/watch?v=K8eOkzQ_o9w)
 2. Kijk om je heen. Kan jij 5 Objecten bedenken? Welke 3 eigenchappen kan jij voor ieder object bedenken. Schrijf ze op.
+1. Koptelefoon- Eigenchappen: Zwart, Groen licht, Groene draad
+2. Computer - Eigenschappen: Zilver, HP, Klein
+3. TV - Zwart, LG, Rood licht
 
 ## Eindresultaat
 
