@@ -44,4 +44,11 @@ De drie voorbeelden hierboven laten zien dat een Class vaak een algemeen woord i
 1. Neem de Class Voertuig. Bedenk 5 eigenschappen die bij een Voertuig horen
 2. Geef die 5 eigenschappen een specifieke en relevante waarde
 
+Class(Voertuig)
+- merk(Mercedes)
+- lengte(2,3M)
+- type(Sedan)
+- gewicht(3000KG)
+- PK(450PK)
+
 ### Bronnen
