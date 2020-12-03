@@ -24,7 +24,7 @@ De drie tekens kun je ook gebruiken om de zichtbaarheid (toegankelijkheid) van m
 
 1. Ga naar www.lucidcharts.com
 2. Bekijk je Mens UML nog eens.
-3. Heb je dezelfde zichtbaarheid tekens toegepast op de verschillende eigenschappen en methodes? Check het eindresultaat.
+3. Heb je dezelfde zichtbaarheid tekens toegepast op de verschillende eigenschappen en methodes? Check het eindresultaat.     - Ja het is aangepast
 
 ### Eindresultaat
 
