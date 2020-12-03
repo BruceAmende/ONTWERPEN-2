@@ -27,5 +27,6 @@ Maar andersom had natuurlijk ook heel goed gekunt:
 ### Opdracht
 
 1. Bekijk de afbeelding en beschrijf in 1 of 2 woorden de relatie tussen de twee classes
+    Geeft 
 
 ![Associatie](images/associatie3.png)
